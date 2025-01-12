@@ -1,0 +1,78 @@
+### 2024_09_16.ipynb
+1. Conversione da Kelvin a Fahrenheit
+2. Equazione di van der Waals
+3. Calcolo della precisione numerica in Python
+4. Conversione di numeri romani in formato decimale
+   - Tecnologie utilizzate: Python standard library
+   - Funzioni principali: None
+
+### 2024_09_20.ipynb
+1. Calcolo della precisione numerica in Python
+2. Funzione per convertire un numero romano in formato decimale
+   - Tecnologie utilizzate: Python standard library
+   - Funzioni principali: None
+
+### 2024_09_23.ipynb
+1. Numeri di Fibonacci
+2. Calcolo di π usando il metodo Monte Carlo
+3. Visualizzazione dei dati COVID-19
+   - Tecnologie utilizzate: NumPy, Matplotlib
+   - Funzioni principali: Monte Carlo simulation
+
+### 2024_09_24.ipynb
+1. Creazione e manipolazione di matrici in NumPy
+2. Visualizzazione di funzioni matematiche
+3. Visualizzazione dei dati COVID-19
+4. Funzione di Himmelblau
+   - Tecnologie utilizzate: NumPy, Matplotlib
+   - Funzioni principali: Himmelblau function
+
+### 2024_10_18_lab3.ipynb
+1. Completamento di matrici e sistemi di raccomandazione
+2. Inversa di Moore-Penrose
+3. Regressione lineare e kernel
+4. Confronto delle implementazioni di pseudo-inversa
+5. Analisi delle prestazioni con %timeit
+   - Tecnologie utilizzate: NumPy, Scikit-learn
+   - Funzioni principali: SVD, Moore-Penrose inverse, linear regression
+
+### 2024_10_21.ipynb
+1. Support Vector Regression (SVR)
+2. Utilizzo della libreria sklearn per SVR
+   - Tecnologie utilizzate: Scikit-learn
+   - Funzioni principali: SVR
+
+### 2024_10_22.ipynb
+1. Differenziazione numerica
+2. Errori teorici nei metodi delle differenze finite
+3. Visualizzazione degli errori delle differenze finite
+   - Tecnologie utilizzate: NumPy, Matplotlib
+   - Funzioni principali: Finite difference methods
+
+### 2024_10_25_lab4.ipynb
+1. Introduzione a JAX
+2. Funzioni di trasformazione di JAX (jit, grad, vmap)
+3. Regressione con Support Vector Machine (SVM)
+4. Visualizzazione dei dati di addestramento e test
+5. Implementazione di funzioni personalizzate con JAX
+6. Gestione dei numeri casuali in JAX
+7. Ottimizzazione e calcolo del gradiente con JAX
+   - Tecnologie utilizzate: JAX, Scikit-learn, Matplotlib
+   - Funzioni principali: JIT compilation, automatic differentiation, SVM
+
+### 2024_12_06_lab9.ipynb
+1. Riconoscimento della scrittura a mano
+2. Importazione e visualizzazione dei dati MNIST
+3. Inizializzazione dei parametri con Glorot Normal
+4. Implementazione di una rete neurale feedforward con funzione di attivazione tanh
+5. Applicazione di un livello softmax
+6. Implementazione di metriche di valutazione (MSE, cross-entropy, accuracy)
+7. Addestramento di un classificatore basato su ANN
+8. Visualizzazione delle previsioni su immagini di test
+   - Tecnologie utilizzate: NumPy, TensorFlow/Keras, Matplotlib
+   - Funzioni principali: Glorot Normal initialization, feedforward ANN, softmax, MSE, cross-entropy
+
+### ovariancancer_grp.csv
+1. Dati di gruppo per il cancro ovarico (etichette Cancer e Normal)
+   - Tecnologie utilizzate: None (data file)
+   - Funzioni principali: None
